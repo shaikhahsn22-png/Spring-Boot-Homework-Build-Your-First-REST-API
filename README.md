@@ -1,13 +1,10 @@
 # Programming Languages API
 
 ## About the Project
-Write 2–3 sentences explaining what the API does and that it was built with Spring Boot.
-
+This is a Spring Boot REST API for exploring and managing programming languages. It allows users to view, search, filter, create, update, and delete programming language data.
 ## Developer Profile
-- Name:
-- Theme:
-- Short Introduction:
-- Current Learning:
+- Name: Shaikha
+- Theme: Programming Languages
 
 ## Technologies Used
 - Java
@@ -44,15 +41,9 @@ Each programming language contains:
 1. Clone the repository.
 2. Open the project in IntelliJ IDEA.
 3. Run the Spring Boot application.
-4. The API will run on:
-   `http://localhost:8080`
+4. The API will run on:`http://localhost:8080`
 5. Test the endpoints using Postman.
 
-## Example Request
-Add one example of an endpoint you tested in Postman.
-
 ## Screenshots
-Add screenshots showing some of the endpoints working.
-
-## Notes
-Mention that the project currently uses in-memory sample data and does not use a database.
+###Endpoint 1
+<img width="2261" height="1017" alt="image" src="https://github.com/user-attachments/assets/11c67ba4-c968-4515-8caf-3fd35caf5cf5" />
